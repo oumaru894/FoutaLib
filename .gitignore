@@ -1,0 +1,10 @@
+# ignore .env file
+.env
+
+#ignore venv file 
+storevenv/
+
+
+#ignore node_modules files
+node_modules/
+
